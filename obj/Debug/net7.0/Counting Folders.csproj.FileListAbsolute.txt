@@ -1,0 +1,15 @@
+/Users/bbingham/Downloads/C#/Counting Folders/bin/Debug/net7.0/Counting Folders
+/Users/bbingham/Downloads/C#/Counting Folders/bin/Debug/net7.0/Counting Folders.deps.json
+/Users/bbingham/Downloads/C#/Counting Folders/bin/Debug/net7.0/Counting Folders.runtimeconfig.json
+/Users/bbingham/Downloads/C#/Counting Folders/bin/Debug/net7.0/Counting Folders.dll
+/Users/bbingham/Downloads/C#/Counting Folders/bin/Debug/net7.0/Counting Folders.pdb
+/Users/bbingham/Downloads/C#/Counting Folders/obj/Debug/net7.0/Counting Folders.csproj.AssemblyReference.cache
+/Users/bbingham/Downloads/C#/Counting Folders/obj/Debug/net7.0/Counting Folders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bbingham/Downloads/C#/Counting Folders/obj/Debug/net7.0/Counting Folders.AssemblyInfoInputs.cache
+/Users/bbingham/Downloads/C#/Counting Folders/obj/Debug/net7.0/Counting Folders.AssemblyInfo.cs
+/Users/bbingham/Downloads/C#/Counting Folders/obj/Debug/net7.0/Counting Folders.csproj.CoreCompileInputs.cache
+/Users/bbingham/Downloads/C#/Counting Folders/obj/Debug/net7.0/Counting Folders.dll
+/Users/bbingham/Downloads/C#/Counting Folders/obj/Debug/net7.0/refint/Counting Folders.dll
+/Users/bbingham/Downloads/C#/Counting Folders/obj/Debug/net7.0/Counting Folders.pdb
+/Users/bbingham/Downloads/C#/Counting Folders/obj/Debug/net7.0/Counting Folders.genruntimeconfig.cache
+/Users/bbingham/Downloads/C#/Counting Folders/obj/Debug/net7.0/ref/Counting Folders.dll
